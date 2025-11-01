@@ -17,7 +17,7 @@ Vue 2를 Vue 3 스타일로 전환
 | 상태 초기화 | `const name = ...`<br>`return { message: name }` | `const name = ...`<br>`const message = ref(name)` |
 
 ### 2. 확인 스크린샷
-![img_3.png](img_3.png)
+![img_3.png](image/img_3.png)
 
 
 ---
@@ -36,7 +36,7 @@ Vue 2를 Vue 3 스타일로 전환
 
 | 초기 로드 (0s) | 1초 후 | 2초 후 (최종) |
 | :---: | :---: | :---: |
-| ![img_1.png](img_1.png) | ![img_2.png](img_2.png) | ![img.png](img.png)
+| ![img_1.png](image/img_1.png) | ![img_2.png](image/img_2.png) | ![img.png](image/img.png)
 
 
 ---
@@ -56,7 +56,7 @@ Vue 2를 Vue 3 스타일로 전환
 
 |          초기 상태          |      'whoami' 클릭 후       |
 |:-----------------------:|:------------------------:|
-| ![img_4.png](img_4.png) | ![img_5.png](img_5.png)  |
+| ![img_4.png](image/img_4.png) | ![img_5.png](image/img_5.png)  |
 
 
 ---
@@ -75,7 +75,7 @@ Vue 2를 Vue 3 스타일로 전환
 
 |  초기 상태   | Toggle 클릭 (Visible: false) | Count 증가 (Count: 5, Visible: false) |
 | :---: | :---: |:-----------------------------------:|
-|![img_6.png](img_6.png)| ![img_7.png](img_7.png) |       ![img_8.png](img_8.png)       |
+|![img_6.png](image/img_6.png)| ![img_7.png](image/img_7.png) |       ![img_8.png](image/img_8.png)       |
 
 
 ---
@@ -95,7 +95,7 @@ Vue 2를 Vue 3 스타일로 전환
 
 |           초기 화면           |   이벤트 버튼 클릭 후 (콘솔)        |
 |:-------------------------:|:-------------------------:|
-| ![img_13.png](img_13.png) | ![img_14.png](img_14.png) |
+| ![img_13.png](image/img_13.png) | ![img_14.png](image/img_14.png) |
 
 ---
 ## E-05-ChildComponent.vue
@@ -109,7 +109,7 @@ Vue 2를 Vue 3 스타일로 전환
 
 |           초기 화면           |   이벤트 버튼 클릭 후 (콘솔)        |
 |:-------------------------:|:-------------------------:|
-| ![img_13.png](img_13.png) | ![img_14.png](img_14.png) |
+| ![img_13.png](image/img_13.png) | ![img_14.png](image/img_14.png) |
 
 ---
 
@@ -125,7 +125,7 @@ Vue 2를 Vue 3 스타일로 전환
 | 스크립트 선언 | `export default { ... }` | `<script setup>` |
 
 ### 2. 확인 스크린샷
-![img_12.png](img_12.png)
+![img_12.png](image/img_12.png)
 
 
 ---
@@ -142,7 +142,7 @@ Vue 2를 Vue 3 스타일로 전환
 | 스크립트 선언 | `export default { ... }` | `<script setup>` |
 
 ### 2. 확인 스크린샷
-![img_12.png](img_12.png)
+![img_12.png](image/img_12.png)
 
 ---
 
@@ -157,7 +157,7 @@ Vue 2를 Vue 3 스타일로 전환
 | 스크립트 선언 | `export default { ... }` | `<script setup>` |
 
 ### 2. 확인 스크린샷
-![img_10.png](img_10.png)
+![img_10.png](image/img_10.png)
 
 ---
 
@@ -183,7 +183,7 @@ Vue 2를 Vue 3 스타일로 전환
 
 |          초기 상태          | 'Greet' 클릭 (1회) | 'Greet' 클릭 (3회, watch 동작) |
 |:-----------------------:|:---------------:|:-------------------------:|
-| ![img_15.png](img_15.png) |        ![img_16.png](img_16.png)         |            ![img_17.png](img_17.png)               |
+| ![img_15.png](image/img_15.png) |        ![img_16.png](image/img_16.png)         |            ![img_17.png](image/img_17.png)               |
 
 
 ---
@@ -192,33 +192,33 @@ Vue 2를 Vue 3 스타일로 전환
 ## E-08-composition-api.vue
 
 ### 동작 확인용 스크린샷
-![img_18.png](img_18.png)
+![img_18.png](image/img_18.png)
 
 ---
 
 ## E-09-composition-API2.vue
 
 ### 동작 확인용 스크린샷
-![img_19.png](img_19.png)
+![img_19.png](image/img_19.png)
 
 ---
 
 ## E-10-ref.vue
 
 ### 동작 확인용 스크린샷
-![img_20.png](img_20.png)
+![img_20.png](image/img_20.png)
 
 ---
 
 ## E-11-reactive.vue
 
 ### 동작 확인용 스크린샷
-![img_21.png](img_21.png)
+![img_21.png](image/img_21.png)
 
 ---
 
 ## E-12-ref-component.vue
 
 ### 동작 확인용 스크린샷
-![img_22.png](img_22.png)
+![img_22.png](image/img_22.png)
 ---
