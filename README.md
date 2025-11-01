@@ -1,6 +1,6 @@
 # Vue 2 → Vue 3
 
-총 12개의 Vue 2 (Options API) 기반 컴포넌트를 Vue 3 (`<script setup>`) 스타일로 전환
+Vue 2를 Vue 3 스타일로 전환
 
 
 ---
