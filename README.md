@@ -187,4 +187,38 @@ Vue 2를 Vue 3 스타일로 전환
 
 
 ---
+아래부터는 제공된 예제가 Vue3 기반 코드, 스타일이므로 동작 확인용 스크린샷만 첨부하였습니다.
 
+## E-08-composition-api.vue
+
+### 동작 확인용 스크린샷
+![img_18.png](img_18.png)
+
+---
+
+## E-09-composition-API2.vue
+
+### 동작 확인용 스크린샷
+![img_19.png](img_19.png)
+
+---
+
+## E-10-ref.vue
+
+### 동작 확인용 스크린샷
+![img_20.png](img_20.png)
+
+---
+
+## E-11-reactive.vue
+
+### 동작 확인용 스크린샷
+![img_21.png](img_21.png)
+
+---
+
+## E-12-ref-component.vue
+
+### 동작 확인용 스크린샷
+![img_22.png](img_22.png)
+---

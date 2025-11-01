@@ -1,15 +1,15 @@
 <template>
-  <E09CompositionApi/>
+  <E12RefComponent/>
  </template>
 
 <script lang="ts">
 import { defineComponent } from 'vue';
-import E09CompositionApi from "@/components/example5/E-09-composition-API2.vue";
+import E12RefComponent from "@/components/example6/E-12-ref-component.vue";
 
 export default defineComponent({
   name: 'App',
   components: {
-    E09CompositionApi
+    E12RefComponent
   }
 });
 </script>
